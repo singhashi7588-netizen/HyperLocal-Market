@@ -12,11 +12,18 @@ to create a react app: npm create vite@latest
     git remote add origin
     git branch -M main
 
+    in other computer:
 
-
+    git clone <repo-url>
+-----------------------------------------------------------------
     to be done always::::
 
     git status- check all changed files
     git add
     git commit -m "Initialized the repo"
     git push origin main
+
+
+    in other computer:
+
+    git pull
