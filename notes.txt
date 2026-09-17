@@ -1,0 +1,22 @@
+to create a react app: npm create vite@latest
+
+17/09/2026:
+    react
+    Git--> initialization and pushing, cloning
+
+
+    git:::
+
+    for first time only---
+    git init
+    git remote add origin
+    git branch -M main
+
+
+
+    to be done always::::
+
+    git status- check all changed files
+    git add
+    git commit -m "Initialized the repo"
+    git push origin main
