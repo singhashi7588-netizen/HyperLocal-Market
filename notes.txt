@@ -27,3 +27,14 @@ to create a react app: npm create vite@latest
     in other computer:
 
     git pull
+
+------------------------------------------------------------------------
+     
+     for  branch:
+        1. git branch - branch helps to show the current branch we are in 
+        2. git fetch origin : it helps us to locally fetch all the branches created in the remote repo
+        3. git branch -a : use to see all the  available branches
+        4. git checkout (enter branch name) 
+        5. 
+    
+    
